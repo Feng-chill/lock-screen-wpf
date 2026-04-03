@@ -28,3 +28,7 @@ src/LockScreen.App/
 ## Next
 
 See [docs/development.md](./docs/development.md) for implementation notes and planned improvements.
+
+中文文档：
+- [README.zh-CN.md](./README.zh-CN.md)
+- [docs/development.zh-CN.md](./docs/development.zh-CN.md)
